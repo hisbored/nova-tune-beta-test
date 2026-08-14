@@ -1,0 +1,6 @@
+{
+  "name": "Novatune",
+  "description": "An offline-first Android music player featuring customizable wallpapers, dynamic palette theming, and an elegant dark aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
